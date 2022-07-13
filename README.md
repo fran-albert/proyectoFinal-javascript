@@ -1,8 +1,8 @@
 # Proyecto Final de Javascript - CoderHouse :muscle::computer:
 
 ## Consigna:
-            
-            Presentarás la página web interactiva en JavaScript que vienes trabajando a lo largo del curso. La misma debe simular distintos procesos. Un “simulador” es un programa que soluciona ciertas tareas, y proporciona al usuario información de valor, de forma coherente y prolija. Utilizarás AJAX y JSON para obtener datos y diversas herramientas de JS como librerías, promises y asincronía para controlar eventos en la interfaz y producir animaciones en respuesta.
+
+Presentarás la página web interactiva en JavaScript que vienes trabajando a lo largo del curso. La misma debe simular distintos procesos. Un “simulador” es un programa que soluciona ciertas tareas, y proporciona al usuario información de valor, de forma coherente y prolija. Utilizarás AJAX y JSON para obtener datos y diversas herramientas de JS como librerías, promises y asincronía para controlar eventos en la interfaz y producir animaciones en respuesta.
 
 ### Objetivos generales: 
 
