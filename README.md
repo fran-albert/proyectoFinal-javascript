@@ -1,4 +1,4 @@
-# proyectoFinal de Javascript - CoderHouse
+# Proyecto Final de Javascript - CoderHouse :muscle::computer:
 
 ## Consigna:
             
@@ -8,7 +8,7 @@
 
 - Presentar una aplicación que utilice Javascript para solucionar un problema real al usuario.
 - Utilizar Javascript para mejorar la interacción y dinamismo de la página, generando una interfaz coherente y atractiva.
-- 
+ 
 ### Objetivos específicos:
 
 - Contar con una estructura de datos clara, basada en Arrays y Objetos.
