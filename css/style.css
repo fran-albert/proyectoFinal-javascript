@@ -1,0 +1,75 @@
+* {
+  font-family: "Fredoka", sans-serif;
+  font-family: "Libre Franklin", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background-color: #eeeeee;
+}
+.navbar {
+  background-color: #ffffff;
+}
+#cargando {
+  display: none;
+}
+.navbar h2 {
+  font-weight: 700;
+}
+.navbar a {
+  color: black;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+.nav-item a:hover {
+  color: #e04d01;
+}
+/* MAIN */
+
+.container {
+  padding: 1rem;
+}
+.camisetas,
+.buzos,
+.camperas,
+.zapatillas {
+  padding: 2rem 0rem;
+  display: flex;
+  justify-content: space-around;
+}
+.submitButton {
+  border-radius: 50px;
+  background-color: #a0bcc2;
+  padding: 0.5rem 0.5rem;
+  font-weight: bold;
+  width: 7%;
+  text-align: center;
+}
+.submitButton a {
+  text-decoration: none;
+  color: black;
+}
+.card {
+  transition: all 0.3s ease-in-out;
+}
+.card:hover {
+  transform: scale(1.1);
+  -webkit-box-shadow: 11px 10px 16px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 11px 10px 16px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 11px 10px 16px 0px rgba(0, 0, 0, 0.75);
+}
+.nav-item img {
+  cursor: pointer;
+}
+.botones {
+  display: flex;
+  justify-content: flex-end;
+}
+.botones a {
+  margin: 0.5rem;
+}
+
+.modal-footer a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}

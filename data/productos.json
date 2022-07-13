@@ -1,0 +1,111 @@
+{
+    "clothes":[
+        {
+          "titulo": "Camiseta River Plate",
+          "categoria": "Camiseta",
+          "id": 1,
+          "img": "https://tiendariver.vteximg.com.br/arquivos/ids/168463-1000-1000/GU9603_FR_Torso_Ecom.jpg?v=637572254211130000",
+          "info": "$",
+          "precio": 13350.99
+        },
+      
+        {
+          "titulo": "Camiseta Selección Argentina",
+          "categoria": "camiseta",
+          "id": 2,
+          "img": "../img/camiseta-adidas-argentina-2021-3.jpg",
+          "info": "$",
+          "precio": 14499.85
+        },
+      
+        {
+          "titulo": "Camiseta PSG",
+          "categoria": "Camiseta",
+          "id": 3,
+          "img": "../img/camiseta-psg-negra.jpg",
+          "info": "$",
+          "precio": 12485.89
+        },
+      
+        {
+          "titulo": "Buzo Under Armour",
+          "categoria": "Buzo",
+          "id": 4,
+          "img": "../img/buzo-under-armour-negro.jpg",
+          "info": "$",
+          "precio": 2300
+        },
+      
+        {
+          "titulo": "Buzo Nike",
+          "categoria": "Buzo",
+          "id": 5,
+          "img": "../img/buzo-nike-jordan.jpg",
+          "info": "$",
+          "precio": 3300
+        },
+      
+        {
+          "titulo": "Buzo Jordan",
+          "categoria": "Buzo",
+          "id": 6,
+          "img": "../img/buzo-nike-psg.jpg",
+          "info": "$",
+          "precio": 4300
+        },
+      
+        {
+          "titulo": "Campera Nike",
+          "categoria": "Campera",
+          "id": 7,
+          "img": "../img/campera-nike-blanca.jpg",
+          "info": "$",
+          "precio": 8300
+        },
+      
+        {
+          "titulo": "Campera Adidas",
+          "categoria": "Campera",  
+          "id": 8,
+          "img": "../img/campera-adidas.jpg",
+          "info": "$",
+          "precio": 9300
+        },
+      
+        {
+          "titulo": "Campera Jordan",
+          "categoria": "Campera",  
+          "id": 9,
+          "img": "../img/campera-jordan.jpg",
+          "info": "$",
+          "precio": 7300
+        },
+    
+        {
+          "titulo": "Zapatillas Vans",
+          "categoria": "Zapatilla",
+          "id": 10,
+          "img": "../img/zapatillas-vans.jpg",
+          "info": "$",
+          "precio": 13300
+        },
+      
+        {
+          "titulo": "Zapatillas Adidas",
+          "categoria": "Zapatilla",
+          "id": 11,
+          "img": "../img/zapatilla-adidas.jpg",
+          "info": "$",
+          "precio": 23300
+        },
+      
+        {
+          "titulo": "Zapatillas Puma",
+          "categoria": "Zapatilla",
+          "id": 12,
+          "img": "../img/zapatilla-puma.jpg",
+          "info": "$",
+          "precio": 11300
+        }
+      ]
+}
